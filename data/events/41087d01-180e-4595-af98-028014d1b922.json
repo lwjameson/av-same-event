@@ -1,0 +1,39 @@
+{
+  "audiovisual_files": {
+    "2a9995e6-ffbe-41f0-b9e4-5d19b117e7e9": {
+      "label": "Audio",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "https://ia800407.us.archive.org/3/items/ArthurConanDoyle1966LFT/Arthur%20Conan%20Doyle%20-%201966%20%28LFT%29.mp3",
+      "duration": 1600,
+      "duration_overridden": false,
+      "caption_set": []
+    },
+    "cfaf453d-f740-46fe-a70b-4d649e1bf603": {
+      "label": "Vido",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 615,
+      "caption_set": [],
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Event 1",
+  "created_at": "2025-03-17T18:42:24.893Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-03-17T18:42:24.893Z",
+  "updated_by": "lwjameson"
+}
