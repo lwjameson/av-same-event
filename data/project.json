@@ -18,10 +18,60 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Titles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cast Card"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Insert Shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cinematography"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Use of Mirror"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Closing Title Card"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Narrative Building"
+        }
+      ]
     },
     "created_at": "2025-03-17T18:39:45.441Z",
-    "updated_at": "2025-03-17T18:42:25.115Z"
+    "updated_at": "2025-03-17T19:12:26.855Z"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "5a64de10-4371-46e7-b584-537378f864de": {
+      "label": "AV File 1",
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 615
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-17T19:12:26.627Z",
+  "created_by": "lwjameson",
+  "item_type": "Video",
+  "label": "SuspenseTheLonelyVilla",
+  "updated_at": "2025-03-17T19:12:26.627Z",
+  "updated_by": "lwjameson"
+}

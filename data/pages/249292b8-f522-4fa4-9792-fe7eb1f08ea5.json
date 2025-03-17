@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-17T19:12:26.849Z",
+  "created_by": "lwjameson",
+  "title": "SuspenseTheLonelyVilla",
+  "slug": "suspensethelonelyvilla-2",
+  "updated_at": "2025-03-17T19:12:26.849Z",
+  "updated_by": "lwjameson",
+  "parent": "0ad89556-f2ad-4f89-b381-5e39b29df6a6",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "eb39b8ac-ec4a-47d9-aacb-6a2698047e26"
+  }
+}
